@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\artdo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\artdo\\.nuget\\packages"
+    ]
+  }
+}
